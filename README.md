@@ -69,13 +69,14 @@ A real-time **Task Management Application** where users can **add, edit, delete,
 ```
 /task-management-app
  ├── client (Frontend - React.js)
+ │   ├── public
  │   ├── src
  │   │   ├── components
- │   │   ├── pages
  │   │   ├── context
  │   │   ├── hooks
+ │   │   ├── Layout
+ │   │   ├── pages
  │   │   ├── styles
- │   ├── public
  │   ├── .env
  │   ├── vite.config.js
  │   ├── package.json
