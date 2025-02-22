@@ -6,7 +6,7 @@ A real-time **Task Management Application** where users can **add, edit, delete,
 
 ## 🚀 Live Demo
 
-🔗 [Live App URL](#)
+🔗 [Live App URL](https://task-management-b48d5.web.app)
 
 ## 📸 Features
 
